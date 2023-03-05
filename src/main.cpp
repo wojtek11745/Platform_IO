@@ -3,7 +3,7 @@
 void setup() {
   pinMode(13, OUTPUT);
 }
-//podpis
+//zmiana podpisu
 void loop() {  
   digitalWrite(LED_BUILTIN, HIGH); 
   delay(500);                      
